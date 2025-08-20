@@ -1,4 +1,4 @@
-🧠 MCQ Quiz App
+# 🧠 MCQ Quiz App
 
 This is a dynamic and interactive Multiple-Choice Question (MCQ) quiz application built using Streamlit and the Gemini API from Google. The app allows users to generate quizzes on any topic, with customizable difficulty and question count.
 ✨ Features
